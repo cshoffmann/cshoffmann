@@ -13,5 +13,3 @@ I thrive in fast-paced, collaborative environments where I can solve complex pro
 - Cloud computing & scalable architectures  
 - Data-driven applications  
 - Continuous learning (Currently upskilling with AWS certifications)  
-
-I'm always open to connecting—feel free to reach out!  
